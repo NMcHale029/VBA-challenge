@@ -9,3 +9,6 @@ Script that loops through all the stocks for one year and outputs:
 Script returns the stock with the "Greatest % increase", "Greatest % decrease", and "Greatest total volume"
 
 Script runs for every year all at once.
+
+I watched a YouTube video (linked below) to learn how to loop a macro through each sheet of a workbook.
+https://www.youtube.com/watch?v=XRDlH8phxEY 
